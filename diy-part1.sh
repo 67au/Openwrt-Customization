@@ -16,3 +16,9 @@
 # Add a feed source
 #echo 'src-git helloworld https://github.com/fw876/helloworld' >>feeds.conf.default
 #echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.conf.default
+
+# extra packages
+git clone https://github.com/honwen/openwrt-v2ray-plugin.git package/extra/openwrt-v2ray-plugin
+git clone https://github.com/honwen/luci-app-shadowsocks-rust.git package/extra/luci-app-shadowsocks-rust
+git clone https://github.com/honwen/openwrt-shadowsocks-rust.git package/extra/openwrt-shadowsocks-rust
+git clone https://github.com/vernesong/OpenClash.git package/extra/OpenClash
