@@ -22,3 +22,5 @@ git clone https://github.com/honwen/openwrt-v2ray-plugin.git package/extra/openw
 git clone https://github.com/honwen/luci-app-shadowsocks-rust.git package/extra/luci-app-shadowsocks-rust
 git clone https://github.com/honwen/openwrt-shadowsocks-rust.git package/extra/openwrt-shadowsocks-rust
 git clone --depth=1 https://github.com/vernesong/OpenClash.git package/extra/OpenClash
+git clone https://github.com/cokebar/luci-app-vlmcsd package/extra/luci-app-vlmcsd
+git clone https://github.com/cokebar/openwrt-vlmcsd package/extra/openwrt-vlmcsd
